@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is D286-1CB7
-
- Directory of C:\Users\Aranjan\Desktop\MyProject
-
-09-08-2020  13:42    <DIR>          .
-09-08-2020  13:42    <DIR>          ..
-09-08-2020  13:42    <DIR>          .git
-09-08-2020  13:42                 0 test1.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  220,296,736,768 bytes free
+test1
